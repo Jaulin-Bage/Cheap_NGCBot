@@ -1,0 +1,106 @@
+[2025-02-16 12:12:04.542] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<appmsg appid="" sdkver="0">
+		<title>逆天</title>
+		<type>57</type>
+		<appattach>
+			<cdnthumbaeskey />
+			<aeskey />
+		</appattach>
+		<refermsg>
+			<type>1</type>
+			<svrid>4954998419280106209</svrid>
+			<fromusr>49154895074@chatroom</fromusr>
+			<chatusr>wxid_o99nkpfwxsxr22</chatusr>
+			<displayname>荔枝麻酱布</displayname>
+			<content>想超</content>
+			<msgsource>&lt;msgsource&gt;&lt;sequence_id&gt;866941393&lt;/sequence_id&gt;
+	&lt;sec_msg_node&gt;
+		&lt;alnode&gt;
+			&lt;fr&gt;1&lt;/fr&gt;
+		&lt;/alnode&gt;
+	&lt;/sec_msg_node&gt;
+	&lt;pua&gt;1&lt;/pua&gt;
+	&lt;silence&gt;1&lt;/silence&gt;
+	&lt;membercount&gt;5&lt;/membercount&gt;
+	&lt;signature&gt;V1_wHbkyhCw|v1_wHbkyhCw&lt;/signature&gt;
+	&lt;tmp_node&gt;
+		&lt;publisher-id&gt;&lt;/publisher-id&gt;
+	&lt;/tmp_node&gt;
+&lt;/msgsource&gt;
+</msgsource>
+			<createtime>1739678902</createtime>
+		</refermsg>
+	</appmsg>
+	<fromusername>wxid_ujx25j0yqmoq22</fromusername>
+	<scene>0</scene>
+	<appinfo>
+		<version>1</version>
+		<appname></appname>
+	</appinfo>
+	<commenturl></commenturl>
+</msg>
+
+[2025-02-16 12:12:04.542] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1770
+[2025-02-16 12:12:04.544] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:12:04.545] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 26
+[2025-02-16 12:12:04.545] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:12:04.545] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 61
+[2025-02-16 12:12:04.545] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:12:04.546] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 187
+[2025-02-16 12:12:21.267] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 看这个消息演出来的时候我都沉默了
+[2025-02-16 12:12:21.267] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 496
+[2025-02-16 12:12:21.269] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:12:21.269] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 28
+[2025-02-16 12:12:21.269] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:12:21.269] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 63
+[2025-02-16 12:12:21.269] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:12:21.269] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 187
+[2025-02-16 12:12:24.934] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 弹*
+[2025-02-16 12:12:24.935] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 452
+[2025-02-16 12:12:24.937] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:12:24.937] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 28
+[2025-02-16 12:12:24.937] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:12:24.937] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 63
+[2025-02-16 12:12:24.937] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:12:24.938] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 187
+[2025-02-16 12:12:30.171] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 你们先去
+[2025-02-16 12:12:30.171] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 427
+[2025-02-16 12:12:30.173] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:12:30.173] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 26
+[2025-02-16 12:12:30.173] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:12:30.174] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 61
+[2025-02-16 12:12:30.174] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:12:30.175] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 341
+[2025-02-16 12:12:37.718] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 帮哥点个宫保鸡丁的
+[2025-02-16 12:12:37.718] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 442
+[2025-02-16 12:12:37.720] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:12:37.955] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 26
+[2025-02-16 12:12:37.955] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:12:37.956] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 61
+[2025-02-16 12:12:37.956] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:12:37.957] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 341
+[2025-02-16 12:12:46.792] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 无语
+[2025-02-16 12:12:46.792] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 479
+[2025-02-16 12:12:46.793] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:12:46.793] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 27
+[2025-02-16 12:12:46.793] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:12:46.794] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 62
+[2025-02-16 12:12:46.794] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:12:46.794] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 187
+[2025-02-16 12:12:59.163] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 从此断绝东大双雄关系
+[2025-02-16 12:12:59.163] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 503
+[2025-02-16 12:12:59.165] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:12:59.165] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 27
+[2025-02-16 12:12:59.165] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:12:59.165] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 62
+[2025-02-16 12:12:59.165] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:12:59.166] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 187
+[2025-02-16 12:13:11.705] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 与xyy组成植物联盟
+[2025-02-16 12:13:11.706] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 497
+[2025-02-16 12:13:11.707] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 87
+[2025-02-16 12:13:11.707] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 27
+[2025-02-16 12:13:11.707] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 97
+[2025-02-16 12:13:11.707] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 62
+[2025-02-16 12:13:11.707] [debug] [WCF] [rpc_server.cpp::854::dispatcher] 0x50[Functions_FUNC_EXEC_DB_QUERY] length: 93
+[2025-02-16 12:13:11.708] [debug] [WCF] [rpc_server.cpp::1027::RunServer] Send data length 187
